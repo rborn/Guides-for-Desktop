@@ -1,0 +1,20 @@
+#appname:Guides For Desktop
+#appid:com.appcelerator.guides.desktop
+#publisher:Appcelerator, Inc.
+#image:titanium.png
+#url:www.appcelerator.com
+#guid:7f9bc035-d1c0-407e-9242-67b8f85ebed8
+#desc:A desktop version of the popular Appcelerator Guides website
+#type:desktop
+runtime:1.1.0
+tiapp:1.1.0
+tifilesystem:1.1.0
+tiplatform:1.1.0
+tiui:1.1.0
+ticodec:1.1.0
+tidatabase:1.1.0
+timedia:1.1.0
+timonkey:1.1.0
+tinetwork:1.1.0
+tiprocess:1.1.0
+tiworker:1.1.0

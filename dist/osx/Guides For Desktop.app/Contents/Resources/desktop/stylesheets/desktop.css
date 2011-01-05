@@ -1,0 +1,19 @@
+#desktop-lastUpdatedContainer {
+    color: white;
+    float: left;
+    font-size: 10px;
+    margin: 0px;
+    padding: 0px;
+}
+#desktop-progressBar-container {
+    width: 600px;
+    height: 50px;
+    border: 1px solid #333;
+    position: relative;
+}
+#desktop-progressBar {
+    position: absolute;
+    top: 0; left: 0; bottom: 0;
+    width: 1px;
+    background-color: #333;
+}
